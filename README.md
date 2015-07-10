@@ -1,0 +1,3 @@
+# simple project
+
+a django project...
